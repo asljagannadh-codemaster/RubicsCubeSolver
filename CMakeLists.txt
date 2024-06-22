@@ -7,4 +7,5 @@ add_executable(RubicsCubeSolver main.cpp
         GeniricRubicsCubeSolver.cpp
         GeniricRubicsCubeSolver.h
         RubiksCube_3drep.cpp
+        RubiksCube1dArray.cpp
 )
