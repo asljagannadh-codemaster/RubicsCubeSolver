@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(RubicsCubeSolver main.cpp
         GeniricRubicsCubeSolver.cpp
-        GeniricRubicsCubeSolver.h)
+        GeniricRubicsCubeSolver.h
+        RubiksCube_3drep.cpp
+)
